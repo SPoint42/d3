@@ -54,7 +54,7 @@
     "d3-drag": "1",
     "d3-dsv": "1",
     "d3-ease": "1",
-    "d3-fetch": "1",
+    "d3-fetch": "1.2.0",
     "d3-force": "1",
     "d3-format": "1",
     "d3-geo": "1",
